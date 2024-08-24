@@ -1,0 +1,38 @@
+button{
+    border-radius:19px;
+}
+
+.primary,
+.secondary{
+    
+    color: white;
+    font-family:'Roboto-Medium',sans-serif;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+
+
+.primary{
+    padding: 20px 40px;
+    border:none;
+    background: #4452FE;
+  
+}
+.primary:hover{
+    background-color:#464FC4;
+
+}
+
+.secondary:hover{
+    
+    color:#6b6b6b;
+    border-color:#6b6b6b;
+}
+
+.secondary{
+    padding: 19px 40px;
+    background:transparent;
+
+
+}
